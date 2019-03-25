@@ -21,3 +21,9 @@ From this point onward any other changes will generate packages with this name:
     pkgfoo_1.0.0-1-g6e2849a_amd64.deb
 
 where `1.0.0` identify the version, `1` identify the number of commit done after the tag and `g6e2849a` identify the last commit hash.
+
+## How to use this
+
+You can clone the following repo and run
+
+    make deb
