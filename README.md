@@ -24,6 +24,12 @@ where `1.0.0` identify the version, `1` identify the number of commit done after
 
 ## How to use this
 
-You can clone the following repo and run
+After you cloned this repo you need to install [fpm](https://fpm.readthedocs.io/en/latest/) using the following:
+
+    $ sudo apt-get update
+    $ sudo apt-get install ruby-dev build-essential
+    $ sudo gem install fpm
+
+then you need to create a fake dir in `/opt/fpm` and run:
 
     make deb
