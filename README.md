@@ -1,6 +1,6 @@
 # README
 
-The aim of this project is to demonstrate how to use `git` to apply (Semantic Versioning)[https://semver.org/].  
+The aim of this project is to demonstrate how to use `git` to apply [Semantic Versioning](https://semver.org/).  
 Just a quick summary:
 
 > Given a version number MAJOR.MINOR.PATCH, increment the:
